@@ -1,8 +1,6 @@
 <!-- Use this template for general feedback and suggestions -->
 <!-- ------------------------------------------------------ -->
-
-**Your feedback summed up in one sentence:**  
-Add feature X
+<!-- Example title: Add feature X -->
 
 **Relevant Links if Applicable:**  
 https://example.com
@@ -15,9 +13,10 @@ This is a good idea
 
 <!-- Use this template for reporting bugs -->
 <!-- ------------------------------------ -->
+<!-- Example title: Error on bot page -->
 
-**Description of bug found:**  
-I get an error when I press a button
+**(Longer) Description of bug found:**  
+I get an error when I press this button
 
 **Pictures/Image Links:**  
 ![](https://discordbots.org/images/error.jpg)
