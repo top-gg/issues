@@ -11,7 +11,7 @@ I think we should introduce more cats on the DBL Website because they ..
 
 and also are *better* than **dogs**
 
-#### Applicable Links or Attachements
+#### Applicable Links or Attachments
 
 ![Image of the cat](https://discordbots.org/images/error.jpg)
 [Link to the website](https://discordbots.org)
@@ -30,7 +30,7 @@ I expected to find my bot MySuperBot
 
 Instead I found this cat
 
-#### Applicable Links or Attachements
+#### Applicable Links or Attachments
 
 ![Image of the cat](https://discordbots.org/images/error.jpg)
 [Link to MySuperBot](https://discordbots.org/bots/mysuperbot)
