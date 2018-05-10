@@ -37,7 +37,7 @@ Instead I found this cat
 
 #### Steps to Reproduce
 
-1. Open Discbordbots.org
+1. Open Discordbots.org
 2. ...
 
 #### Web Browser and Version
