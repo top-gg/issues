@@ -1,28 +1,25 @@
-# DiscordBotList Issues
+# Discord Bot List & Server List Issues
 
-Thanks for reporting an issue you are facing. By that you help us and the community making DiscordBotList a better place for everyone.
+Thank you for reporting any issues you are facing. By doing that you help us and the community making Discord Bot List (and the server list) a better place for everyone.
 
-Before you file an issue, please consider these simple rules:
+Before you report an issue, please consider these simple rules:
 
-- Do not reopen an issue
-- Your content should be explicit and spot on the issue
-- Follow the Discord ToS just as in the Discord Server or the DiscordBotList Website
-- Stay constructive, even if a discussion seems to get heated
+- Your report should be concise and on topic
+- Keep discussions to the issue at hand, be friendly and constructive
 
-Currently there are the following templates to submit an issue:
+Select one of the templates below which best describes your issue/report:
 
 1. [General Issue](https://github.com/DiscordBotList/issues/issues/new?template=ISSUE_TEMPLATE.md)
 2. [Bug Report](https://github.com/DiscordBotList/issues/issues/new?template=BUG_TEMPLATE.md)
 
-Please pick one of these accordingly and then head over to [issues](https://github.com/DiscordBotList/issues/issues) and file your report.
-
 ## Rating a Report or a Comment
 
-We appreciate every contribution - even if it's just up- or down-voting an issue or comment.
-Please do so by adding :thumbsup: or :thumbsdown:. Alternatively you may react to an existing one.
+We appreciate the community's collaboration and any feedback you provide, whether it is a simple upvote or downvote on issues and comments.
+If you wish to provide some feedback do so by adding :thumbsup: or :thumbsdown: and/or by commenting your opinion/suggestion on the issue.
 
 ## Discussing a Report
 
-If you have more to say than just "I agree" or "I disagree" feel free to comment on an issue. By doing so you can show up new perspectives and get a discussion going. That is tremendously helpful when it comes down to deciding which issue is worth a fix and comming up with a solution.
+We expect respecful discussions and constructive feedback/criticism when discussing/commenting on reports. Please keep your discussions on topic and to the point to prevent unnecessary conversations that may lead to arguments.
+We encourage all members of both communities to speak up about your ideas and suggestions. This provides us with a better understanding of what is more important to you and the best possible solutions for issues.
 
-For discussing the same rules count as for posting an issue. Please stick to them, especially staying constructive and friendly.
+When discussing issues our rules and Discord's Terms of Service apply.
