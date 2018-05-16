@@ -9,8 +9,8 @@ Before you report an issue, please consider these simple rules:
 
 Select one of the templates below which best describes your issue/report:
 
-1. [General Issue](https://github.com/DiscordBotList/issues/issues/new?template=ISSUE_TEMPLATE.md)
-2. [Bug Report](https://github.com/DiscordBotList/issues/issues/new?template=BUG_TEMPLATE.md)
+1. [Feedback](https://github.com/DiscordBotList/issues/issues/new?template=ISSUE_TEMPLATE.md)
+2. [Bug/Issue Report](https://github.com/DiscordBotList/issues/issues/new?template=BUG_TEMPLATE.md)
 
 ## Rating a Report or a Comment
 
