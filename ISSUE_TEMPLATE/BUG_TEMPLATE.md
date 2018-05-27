@@ -6,7 +6,7 @@ I expected to find my bot MySuperBot
 
 Instead I found this cat
 
-#### Applicable Links or Attachements
+#### Applicable Links or Attachments
 
 ![Image of the cat](https://discordbots.org/images/error.jpg)
 [Link to MySuperBot](https://discordbots.org/bots/mysuperbot)
