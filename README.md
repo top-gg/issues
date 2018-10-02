@@ -19,7 +19,7 @@ If you wish to provide some feedback do so by adding :thumbsup: or :thumbsdown: 
 
 ## Discussing a Report
 
-We expect respecful discussions and constructive feedback/criticism when discussing/commenting on reports. Please keep your discussions on topic and to the point to prevent unnecessary conversations that may lead to arguments.
+We expect respectful discussions and constructive feedback/criticism when discussing/commenting on reports. Please keep your discussions on topic and to the point to prevent unnecessary conversations that may lead to arguments.
 We encourage all members of both communities to speak up about your ideas and suggestions. This provides us with a better understanding of what is more important to you and the best possible solutions for issues.
 
 When discussing issues our rules and Discord's Terms of Service apply.
