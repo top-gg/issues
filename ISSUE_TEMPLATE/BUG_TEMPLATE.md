@@ -18,15 +18,15 @@ Instead I found this cat
 
 #### Web Browser and Version
 
-Google Chrome Version 5.10.5398
+Netscape navigator 9.0.0.6
 
 #### Operating System and Version
 
-Windows 10 1803
+Windows 98 SE
 
 #### Screen Resolution
 
-1920x1080
+320×240
 
 #### Additional Information/Comments
 
