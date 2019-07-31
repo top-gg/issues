@@ -2,6 +2,8 @@
 
 Thank you for reporting any issues you are facing. By doing that you help us and the community making Discord Bot List (and the server list) a better place for everyone.
 
+**For DonateBot Issues please file them over at https://github.com/DiscordBotList/donatebot-issues**
+
 Before you report an issue, please consider these simple rules:
 
 - Your report should be concise and on topic
