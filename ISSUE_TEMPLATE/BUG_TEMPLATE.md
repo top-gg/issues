@@ -8,12 +8,12 @@ Instead I found this cat
 
 #### Applicable Links or Attachments
 
-![Image of the cat](https://discordbots.org/images/error.jpg)
-[Link to MySuperBot](https://discordbots.org/bots/mysuperbot)
+![Image of the cat](https://top.gg/images/error.jpg)
+[Link to MySuperBot](https://top.gg/bots/mysuperbot)
 
 #### Steps to Reproduce
 
-1. Open Discordbots.org
+1. Open top.gg
 2. ...
 
 #### Web Browser and Version
