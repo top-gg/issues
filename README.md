@@ -2,7 +2,7 @@
 
 Thank you for reporting any issues you are facing. By doing that you help us and the community making Discord Bot List (and the server list) a better place for everyone.
 
-**For DonateBot Issues please file them over at https://github.com/DiscordBotList/donatebot-issues**
+**For DonateBot Issues please file them over at https://github.com/top-gg/donatebot-issues**
 
 Before you report an issue, please consider these simple rules:
 
@@ -11,8 +11,8 @@ Before you report an issue, please consider these simple rules:
 
 Select one of the templates below which best describes your issue/report:
 
-1. [Feedback](https://github.com/DiscordBotList/issues/issues/new?template=ISSUE_TEMPLATE.md)
-2. [Bug/Issue Report](https://github.com/DiscordBotList/issues/issues/new?template=BUG_TEMPLATE.md)
+1. [Feedback](https://github.com/top-gg/issues/issues/new?template=ISSUE_TEMPLATE.md)
+2. [Bug/Issue Report](https://github.com/top-gg/issues/issues/new?template=BUG_TEMPLATE.md)
 
 ## Rating a Report or a Comment
 
