@@ -2,7 +2,7 @@
 
 This repository is dedicated to allowing users to report issues and provide feedback related to [top.gg](https://top.gg)
 
-**If you are having issues with Donate Bot. Please repor them [here](https://github.com/top-gg/donatebot-issues)**
+**If you are having issues with Donate Bot. Please report them [here](https://github.com/top-gg/donatebot-issues)**
 
 Before you report an issue, please consider these simple rules:
 
