@@ -1,8 +1,8 @@
-# Discord Bot List & Server List Issues
+# Top.gg Issues and Feedback
 
-Thank you for reporting any issues you are facing. By doing that you help us and the community making Discord Bot List (and the server list) a better place for everyone.
+This repository is dedicated to allowing users to report issues and provide feedback related to [top.gg](https://top.gg)
 
-**For DonateBot Issues please file them over at https://github.com/top-gg/donatebot-issues**
+**If you are having issues with Donate Bot. Please report them [here](https://github.com/top-gg/donatebot-issues)**
 
 Before you report an issue, please consider these simple rules:
 
@@ -25,3 +25,9 @@ We expect respectful discussions and constructive feedback/criticism when discus
 We encourage all members of both communities to speak up about your ideas and suggestions. This provides us with a better understanding of what is more important to you and the best possible solutions for issues.
 
 When discussing issues our rules and Discord's Terms of Service apply.
+
+## Feature requests
+If you would like to request a feature you can provide us with information over at https://feedback.top.gg/
+
+## Getting Support
+If you require support with an issue you can head over to https://support.top.gg/ or alternatively you can join our discord server [here](https://discord.gg/dbl)
