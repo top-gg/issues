@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Report a bug
+about: Report a bug relating to top.gg
 
 ---
 
@@ -14,8 +14,10 @@ Instead I found this cat
 
 #### Applicable Links or Attachments
 
-![Image of the cat](https://top.gg/images/error.jpg)
-[Link to MySuperBot](https://top.gg/bots/mysuperbot)
+![My super bot](https://top.gg/images/error.jpg)
+
+
+[Link to MySuperBot](https://top.gg/bot/422087909634736160)
 
 #### Steps to Reproduce
 
@@ -24,16 +26,16 @@ Instead I found this cat
 
 #### Web Browser and Version
 
-Netscape navigator 9.0.0.6
+Google Chrome Version XX.X.XXXX.XX (Official Build) (64-bit)
 
 #### Operating System and Version
 
-Windows 98 SE
+Windows 10 Pro
 
 #### Screen Resolution
 
-320×240
+1280x720
 
 #### Additional Information/Comments
 
-It might be because I visited a non existing page
+There was site downtime before it occurred.

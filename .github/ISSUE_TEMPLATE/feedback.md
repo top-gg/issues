@@ -1,19 +1,18 @@
 ---
 name: Feedback
-about: Suggest an idea for this project
+about: Give feedback relating to top.gg
 
 ---
 
 #### Suggestion
 
-I think we should introduce more cats on the DBL Website because they ..
+I think that Top.gg should add more ***cats***
 
-- Are cute
-- Improve the user experience
-
-and also are *better* than **dogs**
+I think cats are cool!
 
 #### Applicable Links or Attachments
 
 ![Image of the cat](https://top.gg/images/error.jpg)
+
+
 [Link to the website](https://top.gg)
